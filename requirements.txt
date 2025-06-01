@@ -2,3 +2,5 @@ pandas
 numpy
 tensorflow == 2.12.0
 streamlit
+scikit-learn
+tensorboard
